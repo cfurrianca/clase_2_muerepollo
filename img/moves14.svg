@@ -1,0 +1,20 @@
+
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350 471.9" style="enable-background:new 0 0 350 471.9">
+<defs></defs>
+<style type="text/css">.st0{fill:none;stroke:rgba(188, 207, 227, 0.3);stroke-width:3;stroke-miterlimit:10;} .st1{fill:none;stroke:rgba(188, 207, 227, 0.3);stroke-width:2;stroke-miterlimit:10;} .st2{fill:#BCCFE3;}</style>
+
+<path class="st0" d="M238.6,93.9V74.5l-15.3,11.9"/>
+
+<path class="st0" d="M38.7,92.2c0,0,1.4,35.3,35.4,35.3S116.6,85,116.6,85s4,31.1,31.2,31.1s30.6-30.5,30.6-30.5s4,24.5,24.6,24.5
+	s35.6-35.6,35.6-35.6"/>
+
+<circle class="st0" cx="-53" cy="-2.2" r="10">
+
+<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="space2.end" calcMode="linear" dur="2s" fill="remove" id="pause" restart="always" type="translate">
+	</animateTransform>
+	
+<animateMotion  accumulate="none" additive="replace" begin="0; pause.end" calcMode="linear" dur="4s" fill="freeze" id="space2" keyPoints="0;0.2;0.3;0.8;0.9;1" keyTimes="0;0.33;0.36;0.60;0.66;1" path="M38.7 92.2l35.4 35.3 42.5-42.5 31.2 31.1 30.6-30.5 24.6 24.5 35.6-35.6" restart="always">
+	</animateMotion>
+</circle>
+</svg>
